@@ -77,7 +77,7 @@ cat [-0.9, 0.9, 0.9]
 * Addresses some of these challenges
 * Adapts a pre-trained model
 
-#### Challenges that fine-tuning can help
+#### Challenges of building a LLM
 #### 1. powerful computers
 * Memory
 * Processing power
