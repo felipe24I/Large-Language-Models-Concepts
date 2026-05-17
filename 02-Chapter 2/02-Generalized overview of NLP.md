@@ -68,3 +68,36 @@ cat [-0.9, 0.9, 0.9]
 
 <img width="1080" height="257" alt="image" src="https://github.com/user-attachments/assets/47b4cf68-a654-4718-84ba-c2f387a80574" />
 
+### 3. Pre-training
+* Leraned from general-purpose datasets
+* Not optimized for specific-tasks
+* Can be fine-tuned for a specific problem
+  
+### 4. Fine-tuning
+* Addresses some of these challenges
+* Adapts a pre-trained model
+
+#### Challenges that fine-tuning can help
+#### 1. powerful computers
+* Memory
+* Processing power
+* Infrastructure
+* Expensive
+
+* **LLM:** 100000's central processing Units (CPUs) and 10000's Graphic Processing Units (GPUs)
+
+* **A personal computer:** 4-8 CPU and 1-2 GPUs
+
+#### 2. Efficient model training
+* Training time is huge
+* May take weeks or even months
+* Efficient model training = faster training time
+* 355 years of processing tiem on a single GPU
+
+#### 3. Data availability
+* Need of high-quality data
+* To learn the complexities and subtleties of language
+* A few hundred gigabytes (GBs) of text data: more than a million books
+* Massive amount of data
+
+<img width="1067" height="525" alt="image" src="https://github.com/user-attachments/assets/df21de12-a2fe-49a1-ba43-3ada179d4025" />
