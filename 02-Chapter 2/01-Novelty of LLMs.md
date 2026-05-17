@@ -42,3 +42,7 @@ Novelty of LLMs is the ability to detect linguistic subtleties
 <img width="511" height="412" alt="image" src="https://github.com/user-attachments/assets/2476942b-9a94-4193-bedc-716afec53724" />
 
 <img width="1177" height="545" alt="image" src="https://github.com/user-attachments/assets/32897811-a2fa-4fbb-ac0d-357a9d563a80" />
+
+<img width="1127" height="557" alt="image" src="https://github.com/user-attachments/assets/f7cf04c9-b1e2-4261-b76a-9dada5e87d39" />
+
+<img width="1006" height="446" alt="image" src="https://github.com/user-attachments/assets/c4792817-29f6-4097-841c-d747dc1c0324" />
