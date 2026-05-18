@@ -7,7 +7,7 @@ Help language models understand complex structures and represent text more effec
 * Concentrate on crucial input data
 
 ### Self-attention and multi-head attention
-**Self-attention:** Weighs the importance of each word in a sentence baed on the context to capture long-range dependencies
+**Self-attention:** Weighs the importance of each word in a sentence based on the context to capture long-range dependencies
 
 **Multi-head attention:** takes self-attetion to the next level by splitting the input into multiple "heads" with each head focusing on different aspects of the relationships between words, allowing the model to learn a richer representation of the text
 
