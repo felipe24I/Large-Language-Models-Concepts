@@ -15,7 +15,7 @@ Help language models understand complex structures and represent text more effec
 * Group conversation at a party it is common to selective attention to the most relevant speaker to understand the topic being discuss, by filtering out background noise, individuals can focus on key points of the conversation and understand what is being discussed
 
 #### self-attention
-Can be compared to foucs on each person's words in the group conversation and evaluating the relevance in relation to other people's words
+Can be compared to focus on each person's words in the group conversation and evaluating the relevance in relation to other people's words
 
 This technique enables the model to weigh each speaker's input and combine them to from a more comprehensive understanding of the conversation
 
